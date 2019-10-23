@@ -3,11 +3,9 @@
 NASA International Space Apps Challenge - From curious minds come helping hands
 
 <table border="0">
- <tr>
-  
+ <tr>  
     <td><img src="nasa.png" width="400">
     </td>
-  
     <td>
      <p>
       <b> Our team </b>
@@ -16,6 +14,8 @@ NASA International Space Apps Challenge - From curious minds come helping hands
       <b> Who are we? </b>
       <p>- Dani Ushizima, PhD - data scientist Berkeley, USA
       <p>- Prof. Marilia Pisani, PhD - social scientist Sao Paulo, Brazil      
+      <p>
+      <b> Materials:</b> https://disasters.nasa.gov/tools 
       </td>
  </tr>
 </table>
